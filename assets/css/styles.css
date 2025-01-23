@@ -11,12 +11,13 @@
   
 
   .header-row {
-    background-color: rgb(241, 177, 59);
+    background-color: rgb(167, 119, 105);
     display: flex;
     justify-content: space-between;
     align-items: center;
     position: sticky;
     top: 0px;
+    color: white;
     
   }
 
